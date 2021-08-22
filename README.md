@@ -8,6 +8,8 @@ Solver for the Hexagon Standoff puzzle from "Professor Puzzle" - implemented in 
 
 ## Puzzle
 
+![Hexagon Standoff](img/hexagon_standoff.jpg)
+
 Hexagon Standoff is a tile placement game produced by [Professor Puzzle](https://professorpuzzle.com/). The game is played with seven hexagonal tiles that have symbols printed on each edge. All tiles share the same six symbols, but the relative position of the symbols is unique for each tile. The player must place and rotate the tiles so that all edges between two tiles share a matching symbol.
 
 ## Solution
